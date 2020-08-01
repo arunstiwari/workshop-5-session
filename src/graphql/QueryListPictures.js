@@ -1,8 +1,8 @@
-import {gql} from '@apollo/client';
+import gql from 'graphql-tag';
 
-export default gql`
-  query {
-    listPictures(limit: 100) {
+export default  gql`
+  query{
+    listPictures(limit: 100){
       items {
         id
         name
@@ -17,4 +17,4 @@ export default gql`
       }
     }
   }
-`
+`;
