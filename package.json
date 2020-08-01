@@ -1,14 +1,23 @@
 {
-  "name": "aws-appsync-react",
+  "name": "aws-appsync-reactjs-workshop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.1.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "aws-amplify": "^3.0.22",
+    "aws-amplify-react": "^4.1.21",
+    "aws-appsync": "^4.0.0",
+    "aws-appsync-react": "^4.0.0",
+    "graphql": "^15.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.1.0",
+    "uuid": "^8.3.0"
   },
   "scripts": {
     "start": "react-scripts start",

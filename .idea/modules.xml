@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aws-appsync-react.iml" filepath="$PROJECT_DIR$/aws-appsync-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-appsync-reactjs-workshop.iml" filepath="$PROJECT_DIR$/aws-appsync-reactjs-workshop.iml" />
     </modules>
   </component>
 </project>
